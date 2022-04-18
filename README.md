@@ -2,7 +2,7 @@
 Created a shiny application that investigated word counts throughout Shakespeare Plays
 
 <hr>
-You can access my app [here] (https://asood3.shinyapps.io/Sood_ProblemSet3/)
+You can access my app [here](https://asood3.shinyapps.io/Sood_ProblemSet3/)
 <hr>
 
 ## How to re-create the application
